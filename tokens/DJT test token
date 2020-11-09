@@ -1,0 +1,9 @@
+{
+  "symbol": "DJT",
+  "name": "Dijets",
+  "type": "ERC20",
+  "address": "0x2edc8247ff74990051eb2409dc650ce58644e993",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://dijets.co.uk"
+}
